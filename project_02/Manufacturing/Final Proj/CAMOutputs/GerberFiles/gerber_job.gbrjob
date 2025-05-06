@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-05-06T21:25:09Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "EtchAsketchSchematic v5"
+        },
+        "Owner": "Oluwatomi Kuye <tk52@rice.edu>",
+        "Size": {
+            "X": 104.775,
+            "Y": 74.295
+        }
+    }
+}
