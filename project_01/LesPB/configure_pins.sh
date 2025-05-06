@@ -1,0 +1,11 @@
+config-pin P2_02 gpio
+config-pin P2_04 gpio
+config-pin P2_06 gpio
+config-pin P2_08 gpio
+config-pin P2_10 gpio
+config-pin P2_18 gpio
+config-pin P2_20 gpio
+config-pin P2_22 gpio
+config-pin P2_30 gpio
+config-pin P2_32 gpio
+config-pin P2_34 gpio
