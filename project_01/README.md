@@ -1,6 +1,6 @@
 # Les PocketBeagle
 
-Morde detailed instructions can be found here : [https://www.hackster.io/tk52/edes-301-les-pocketbeagle-60fc74](Les PB Hacksterpage)
+Morde detailed instructions can be found here : [https://www.hackster.io/tk52/edes-301-les-pocketbeagle-60fc74] (Les PB Hacksterpage)
 
 Here are software instructions for EDES301 Les PB project
 Unfortunately the listener script works for Mac ONLY. Please modify as you see fit for other Operating Systems.
@@ -19,10 +19,10 @@ Then change line 7 appropriately, in the **listen_key.py** file
 
 
 ## To use/ test the system
-Run the Les PB code on the Pocket Beagle. Wait for the lights to be configured.
-Run the listen_key.py file on your laptop
-Open a TextDocument, Google Doc etc
-Press the buttons youve wired up!
+-Run the Les PB code on the Pocket Beagle. Wait for the lights to be configured.
+-Run the listen_key.py file on your laptop
+-Open a TextDocument, Google Doc etc
+-Press the buttons youve wired up!
 
 If everything is set up correctly, you should see text output on your screen, varying with the length of your press!
 Like I explained in the hackster, it unfortunately doesnt work due to the rules of Clone Hero , but it's a great start to a macro pad ! haha
